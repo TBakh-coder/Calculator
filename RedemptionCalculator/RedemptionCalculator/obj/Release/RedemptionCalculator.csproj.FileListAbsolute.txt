@@ -1,0 +1,9 @@
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\bin\Release\RedemptionCalculator.exe.config
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\bin\Release\RedemptionCalculator.exe
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\bin\Release\RedemptionCalculator.pdb
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.Form1.resources
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.Properties.Resources.resources
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.exe
+C:\Users\huawei\source\repos\RedemptionCalculator\RedemptionCalculator\obj\Release\RedemptionCalculator.pdb
